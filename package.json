@@ -12,4 +12,8 @@
   },
   "devDependencies": {},
   "description": ""
+},
+"dependencies": {
+  "express": "^4.x.x",
+  "express-fileupload": "^1.x.x"
 }
